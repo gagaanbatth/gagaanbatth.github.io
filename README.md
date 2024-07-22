@@ -1,8 +1,6 @@
-
-
-
 # gagaanbatth.github.io
 ## Report of Student Induction Programme 2024.
+
 | Date | Resource Person | Description |
 | ---- | ----------- | ----------- |
 | 11/07/2024 | DR.ARVIND DHINGRA | Sir give a being description on the various clubs of college which are either credited or non credited they told us about the activities done in each club like Cosmic club, NCC,NSS, cultural etc. Sir has well explained this with a beautiful powerpoint presentation. Sir told us to be good human beings and great engineerings. Sir give us the messages to follow 3Ps to become successful in their life. Then for the entertainment sir played a game with students in which they have to hold each others hand and have to escape without leaving hands.  In this game the boys team won and then sir told everyone on stage to introduces themself. Sir is very nice, motivator and frinedly |
@@ -19,7 +17,8 @@
 | 18/07/24 | MR ARSH AND SHARAN  |They both are our seniors from cs and it department. Both sir has explained us about an app named chatgpt and about excel. They give information about the chatgpt how can one take help from it and are able to do a large burden of work in few mintues after that they teach us the basics of excel like creating table and formatting it, mailings, finding sum average min, max etc. Except all these they also tell us about the college and told us that they are always ready to help their juniors. They are very humble and friendly |
 | 18/07/24 | PROF RB | In this lecture mam revised us the basics of integrations and solved a number of questions related to it. then mam has provided us a short information related to our upcoming syllabus and its corelation with the previous syallubus that we had done in 12 standard. Mam had also suggested us to watch some videos for clearing the basics and asking the doubts |
 | 18/07/24 | DR HARWINDER SINGH  | Sir is the head of NCC team of the college, he had provided us a breif description of ncc(national cadet corps). there are 2 branches in NCC one with armed force and the other is air wing. Sir is head of armed force. Sir showed us a ppt in which there was a proper detail of ncc like the scholarships or various other awards. Sir told that the expense of this team is done by the government of india even the refreshments and uniform too. Every year 1 camp is organised in the college. The cadets had given the training of shooting, clearing the difficulties and many more this is a 3 year course |
-| 18/07/24 | ER. JASVIR SINGH GREWAL | Sir is leading the NSS (national service scheme). Sir provides us the detail of this scheme like the various camps organised, the social works done by the team, sir also told us that the needy children whose blood is changed soon their team also help them, also sir motivated students to plant trees, not only planting but taking care of those trees is also crucial, recently sir and this team plants 3000+ trees at different places, sir told us the importance of the ceritificate provided by the nss as in coming days it will be beneficial for us | 
+| 18/07/24 | ER. JASVIR SINGH GREWAL | Sir is leading the NSS (national service scheme). Sir provides us the detail of this scheme like the various camps organised, the social works done by the team, sir also told us that the needy children whose blood is changed soon their team also help them, also sir motivated students to plant trees, not only planting but taking care of those trees is also crucial, recently sir and this team plants 3000+ trees at different places, sir told us the importance of the ceritificate provided by the nss as in coming days it will be beneficial for us |
+
 
 
 
