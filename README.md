@@ -20,6 +20,8 @@
 | 18/07/24 | ER. JASVIR SINGH GREWAL | Sir is leading the NSS (national service scheme). Sir provides us the detail of this scheme like the various camps organised, the social works done by the team, sir also told us that the needy children whose blood is changed soon their team also help them, also sir motivated students to plant trees, not only planting but taking care of those trees is also crucial, recently sir and this team plants 3000+ trees at different places, sir told us the importance of the ceritificate provided by the nss as in coming days it will be beneficial for us |  | 19/07/24 | ER. KANWARDEEP KALRA | Mam told the students the journey from the campus to cooperative. She showed us a role play in which the candidates gave interview to the companies and she explained us the mistakes done by the candidates, after that she talked about the dressing sense of an engineer and the soft skills which are as much important as the studies, then she showed a ppt describing each and every important skills needed in our life. According to her smile on face is very crucial in every situation like in the interview. Then again she showed the role play again in which the students improved themselves and behave well. |
 
 
+![Screenshot_20240723_192608_Chrome](https://github.com/user-attachments/assets/be5e3e84-8490-4690-a6f6-8ed4be575dee)
+
 
 
 
